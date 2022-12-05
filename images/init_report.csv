@@ -1,0 +1,11 @@
+Category,Misclassification
+Airplane,51.6
+Automobile,39.4
+Bird,99.6
+Cat,99.6
+Deer,100
+Dog,92.3
+Frog,92.6
+Horse,74.5
+Ship,90.3
+Truck,44.8
